@@ -13,7 +13,12 @@
                                 {{ session('status') }}
                             </div>
                         @endif
+
+
                         You are logged in!
+                    </div>
+                    <div>
+                        <a href="/quiz"> Quiz</a>
                     </div>
                 </div>
             </div>

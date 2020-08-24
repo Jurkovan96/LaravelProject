@@ -74,11 +74,11 @@ class PostController extends Controller
             ->groupBy('answer')
             ->get();
 
-        $array[] = ['Answer', 'Number'];
+        $dataForSurvey[] = ['Answer', 'Number'];
         foreach ($data as $key => $value) {
-            $array[++$key] = [$value->answer, $value->number];
+            $dataForSurvey[++$key] = [$value->answer, $value->number];
         }
-        return view('posts.chart')->with('answer', json_encode($array));
+        return view('posts.chart')->with('dataSurvey', json_encode($dataForSurvey));
 
 
     }

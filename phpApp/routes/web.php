@@ -11,25 +11,15 @@
 |
 */
 
-
-Route::get('/welcome', function () {
-    return view('welcome');
-});
-
-
 Auth::routes();
 
 Route::get('/home', 'HomeController@index')->name('home');
 
 
-//Custom routes
-
 Route::get('/quiz', 'PostController@index')->middleware('auth');
 
-//Route::get('/questions', 'PostController@create')->middleware('auth');
 
-Route::post(
-    '/store',
+Route::post('/store',
     [
         'uses' => 'PostController@createPost',
     ]
