@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="PhpIncludePathManager">
+    <include_path>
+      <path value="$PROJECT_DIR$/phpApp/vendor/symfony/process" />
+      <path value="$PROJECT_DIR$/phpApp/vendor/psr/log" />
+      <path value="$PROJECT_DIR$/phpApp/vendor/vlucas/phpdotenv" />
+      <path value="$PROJECT_DIR$/phpApp/vendor/symfony/polyfill-ctype" />
+      <path value="$PROJECT_DIR$/phpApp/vendor/symfony/http-foundation" />
+      <path value="$PROJECT_DIR$/phpApp/vendor/symfony/event-dispatcher" />
+      <path value="$PROJECT_DIR$/phpApp/vendor/symfony/css-selector" />
+      <path value="$PROJECT_DIR$/phpApp/vendor/mockery/mockery" />
+      <path value="$PROJECT_DIR$/phpApp/vendor/symfony/console" />
+      <path value="$PROJECT_DIR$/phpApp/vendor/symfony/http-kernel" />
+      <path value="$PROJECT_DIR$/phpApp/vendor/symfony/translation" />
+      <path value="$PROJECT_DIR$/phpApp/vendor/symfony/polyfill-util" />
+      <path value="$PROJECT_DIR$/phpApp/vendor/symfony/finder" />
+      <path value="$PROJECT_DIR$/phpApp/vendor/symfony/debug" />
+      <path value="$PROJECT_DIR$/phpApp/vendor/symfony/polyfill-php70" />
+      <path value="$PROJECT_DIR$/phpApp/vendor/composer" />
+      <path value="$PROJECT_DIR$/phpApp/vendor/phpspec/prophecy" />
+      <path value="$PROJECT_DIR$/phpApp/vendor/phpunit/phpunit" />
+      <path value="$PROJECT_DIR$/phpApp/vendor/phpunit/php-code-coverage" />
+      <path value="$PROJECT_DIR$/phpApp/vendor/phpunit/phpunit-mock-objects" />
+      <path value="$PROJECT_DIR$/phpApp/vendor/nesbot/carbon" />
+      <path value="$PROJECT_DIR$/phpApp/vendor/phpunit/php-file-iterator" />
+      <path value="$PROJECT_DIR$/phpApp/vendor/phpunit/php-timer" />
+      <path value="$PROJECT_DIR$/phpApp/vendor/phpunit/php-text-template" />
+      <path value="$PROJECT_DIR$/phpApp/vendor/phpunit/php-token-stream" />
+      <path value="$PROJECT_DIR$/phpApp/vendor/swiftmailer/swiftmailer" />
+      <path value="$PROJECT_DIR$/phpApp/vendor/hamcrest/hamcrest-php" />
+      <path value="$PROJECT_DIR$/phpApp/vendor/kylekatarnls/update-helper" />
+      <path value="$PROJECT_DIR$/phpApp/vendor/sebastian/code-unit-reverse-lookup" />
+      <path value="$PROJECT_DIR$/phpApp/vendor/sebastian/version" />
+      <path value="$PROJECT_DIR$/phpApp/vendor/ramsey/uuid" />
+      <path value="$PROJECT_DIR$/phpApp/vendor/sebastian/comparator" />
+      <path value="$PROJECT_DIR$/phpApp/vendor/sebastian/environment" />
+      <path value="$PROJECT_DIR$/phpApp/vendor/sebastian/object-enumerator" />
+      <path value="$PROJECT_DIR$/phpApp/vendor/sebastian/exporter" />
+      <path value="$PROJECT_DIR$/phpApp/vendor/sebastian/diff" />
+      <path value="$PROJECT_DIR$/phpApp/vendor/nikic/php-parser" />
+      <path value="$PROJECT_DIR$/phpApp/vendor/sebastian/global-state" />
+      <path value="$PROJECT_DIR$/phpApp/vendor/tijsverkoyen/css-to-inline-styles" />
+      <path value="$PROJECT_DIR$/phpApp/vendor/monolog/monolog" />
+      <path value="$PROJECT_DIR$/phpApp/vendor/sebastian/recursion-context" />
+      <path value="$PROJECT_DIR$/phpApp/vendor/sebastian/resource-operations" />
+      <path value="$PROJECT_DIR$/phpApp/vendor/jakub-onderka/php-console-highlighter" />
+      <path value="$PROJECT_DIR$/phpApp/vendor/jakub-onderka/php-console-color" />
+      <path value="$PROJECT_DIR$/phpApp/vendor/myclabs/deep-copy" />
+      <path value="$PROJECT_DIR$/phpApp/vendor/paragonie/random_compat" />
+      <path value="$PROJECT_DIR$/phpApp/vendor/league/flysystem" />
+      <path value="$PROJECT_DIR$/phpApp/vendor/erusev/parsedown" />
+      <path value="$PROJECT_DIR$/phpApp/vendor/doctrine/instantiator" />
+      <path value="$PROJECT_DIR$/phpApp/vendor/doctrine/inflector" />
+      <path value="$PROJECT_DIR$/phpApp/vendor/fzaninotto/faker" />
+      <path value="$PROJECT_DIR$/phpApp/vendor/laravel/tinker" />
+      <path value="$PROJECT_DIR$/phpApp/vendor/laravel/framework" />
+      <path value="$PROJECT_DIR$/phpApp/vendor/psy/psysh" />
+      <path value="$PROJECT_DIR$/phpApp/vendor/phpdocumentor/type-resolver" />
+      <path value="$PROJECT_DIR$/phpApp/vendor/phpdocumentor/reflection-docblock" />
+      <path value="$PROJECT_DIR$/phpApp/vendor/phpdocumentor/reflection-common" />
+      <path value="$PROJECT_DIR$/phpApp/vendor/dnoegel/php-xdg-base-dir" />
+      <path value="$PROJECT_DIR$/phpApp/vendor/webmozart/assert" />
+      <path value="$PROJECT_DIR$/phpApp/vendor/mtdowling/cron-expression" />
+      <path value="$PROJECT_DIR$/phpApp/vendor/symfony/var-dumper" />
+      <path value="$PROJECT_DIR$/phpApp/vendor/symfony/yaml" />
+      <path value="$PROJECT_DIR$/phpApp/vendor/symfony/polyfill-php56" />
+      <path value="$PROJECT_DIR$/phpApp/vendor/symfony/polyfill-mbstring" />
+      <path value="$PROJECT_DIR$/phpApp/vendor/symfony/routing" />
+    </include_path>
+  </component>
+  <component name="PhpProjectSharedConfiguration" php_language_level="7.3" />
+  <component name="PhpUnit">
+    <phpunit_settings>
+      <PhpUnitSettings custom_loader_path="$PROJECT_DIR$/phpApp/vendor/autoload.php" />
+    </phpunit_settings>
+  </component>
+</project>
